@@ -1,6 +1,6 @@
 # merge_routes_nodejs
 
-##Run Project
+## Run Project
 
 ```bash
 npm install
@@ -10,4 +10,4 @@ npm install
 node app
 ```
 
-##Open browser localhost:3001/auth or localhost:3001/user
+## Open browser localhost:3001/auth or localhost:3001/user
